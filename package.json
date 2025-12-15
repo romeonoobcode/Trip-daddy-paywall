@@ -1,0 +1,29 @@
+{
+  "name": "copy-of-trip-daddy-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "lucide-react": "^0.556.0",
+    "react-dom": "^19.2.1",
+    "@google/genai": "^1.32.0",
+    "express": "^5.2.1",
+    "dotenv": "^17.2.3",
+    "cors": "^2.8.5",
+    "mongoose": "^9.0.1",
+    "stripe": "^14.14.0",
+    "nodemailer": "^7.0.11"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
